@@ -4,7 +4,7 @@
 <img src="https://stratio.github.io/egeo-web/2.1.0/assets/images/egeo_logo.png">
 </div>
 
-# Egeo
+# Egeo 
 
 EGEO is the open-source component library used to build Stratio's UI. The goals are to reduce the time and complexity of interface building being more productive, improving the experience based in apply the same patterns and visuals across the whole Stratio applications being more consistent, and create a common and unified visual language that helps us to understand each other better laying the foundation for scalable growth.
 
