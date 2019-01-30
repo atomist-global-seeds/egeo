@@ -1,6 +1,6 @@
 [![Coverage Status](https://coveralls.io/repos/github/Stratio/egeo/badge.svg?branch=karma-config)](https://coveralls.io/github/Stratio/egeo?branch=karma-config)
  
-<div align="center"> 
+<div align="center">  
 <img src="https://stratio.github.io/egeo-web/2.1.0/assets/images/egeo_logo.png">
 </div>
 
